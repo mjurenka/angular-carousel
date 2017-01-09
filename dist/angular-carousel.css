@@ -56,9 +56,5 @@ div.rn-carousel-indicator span {
     opacity: 1; }
   .rn-carousel-control.rn-carousel-control-prev {
     left: 0.5em; }
-    .rn-carousel-control.rn-carousel-control-prev:before {
-      content: "<"; }
   .rn-carousel-control.rn-carousel-control-next {
     right: 0.5em; }
-    .rn-carousel-control.rn-carousel-control-next:before {
-      content: ">"; }
